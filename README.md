@@ -2,19 +2,15 @@
 
 A fully local AI assistant that runs 100% on your machine. No API keys, no subscriptions, no data leaving your device.
 
-## Demo
 
-> Demo video coming soon
 
 ## Screenshots
 
-![Dashboard](<img width="975" height="464" alt="image" src="https://github.com/user-attachments/assets/392624eb-c473-4879-98fe-048920cf54b3" />)
+<img width="975" height="464" alt="image" src="https://github.com/user-attachments/assets/392624eb-c473-4879-98fe-048920cf54b3" />
+<img width="975" height="467" alt="image" src="https://github.com/user-attachments/assets/691307bc-4ede-4c7e-9ad4-ae752c944102" />
+<img width="975" height="228" alt="image" src="https://github.com/user-attachments/assets/9c91e36a-1dc4-4a12-a96a-13b33f06b403" />
+<img width="975" height="444" alt="image" src="https://github.com/user-attachments/assets/20935a0d-b60d-4bb9-9d2a-c22cd6b70294" />
 
-![Attaching documents](<img width="975" height="467" alt="image" src="https://github.com/user-attachments/assets/691307bc-4ede-4c7e-9ad4-ae752c944102" />)
-![catured voice](<img width="975" height="228" alt="image" src="https://github.com/user-attachments/assets/9c91e36a-1dc4-4a12-a96a-13b33f06b403" />)
-
-![Voice Input](<img width="975" height="444" alt="image" src="https://github.com/user-attachments/assets/20935a0d-b60d-4bb9-9d2a-c22cd6b70294" />
-)
 
 ## Features
 

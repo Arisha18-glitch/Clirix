@@ -5,13 +5,17 @@ A fully local AI assistant that runs 100% on your machine. No API keys, no subsc
 
 
 ## Screenshots
+
 # Dasboard
 <img width="975" height="464" alt="image" src="https://github.com/user-attachments/assets/392624eb-c473-4879-98fe-048920cf54b3" />
+
 # Attached file
 <img width="975" height="467" alt="image" src="https://github.com/user-attachments/assets/691307bc-4ede-4c7e-9ad4-ae752c944102" />
+
 # Captured Audio
 <img width="975" height="228" alt="image" src="https://github.com/user-attachments/assets/9c91e36a-1dc4-4a12-a96a-13b33f06b403" />
-# rasponding
+
+# Responding
 <img width="975" height="444" alt="image" src="https://github.com/user-attachments/assets/20935a0d-b60d-4bb9-9d2a-c22cd6b70294" />
 
 

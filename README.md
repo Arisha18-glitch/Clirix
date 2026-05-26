@@ -17,6 +17,8 @@ A fully local AI assistant that runs 100% on your machine. No API keys, no subsc
 
 # Responding
 <img width="975" height="444" alt="image" src="https://github.com/user-attachments/assets/20935a0d-b60d-4bb9-9d2a-c22cd6b70294" />
+# In bullet form
+<img width="975" height="445" alt="image" src="https://github.com/user-attachments/assets/a2feecc2-9503-43f7-aa1d-79afaf4137c2" />
 
 
 ## Features
